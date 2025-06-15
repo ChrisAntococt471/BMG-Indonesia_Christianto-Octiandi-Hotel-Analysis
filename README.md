@@ -10,4 +10,3 @@ From this data, please perform the following tasks:
 * Perform customer segmentation (clustering).
 
 The ipynb is already attached. Thank you very much.
-Christianto Octiandi
